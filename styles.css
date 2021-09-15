@@ -13,6 +13,11 @@ h1 {
     color: navy;
 }
 
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: hotpink;
+}
+
 h2 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: firebrick;
