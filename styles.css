@@ -47,6 +47,10 @@ p.highlight:hover {
 }
 
 #maincharacter {
+    outline-style: dashed;
+}
+
+.maincharacter2 {
     outline-style: solid;
 }
 
