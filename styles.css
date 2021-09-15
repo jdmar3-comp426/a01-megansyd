@@ -38,11 +38,6 @@ h6 {
     color: indigo;
 }
 
-h7 {
-    font-family: Arial, Helvetica, sans-serif;
-    color: darkolivegreen;
-}
-
 p.highlight:hover {
     color: #ff0000;
 }
