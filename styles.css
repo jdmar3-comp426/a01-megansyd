@@ -67,3 +67,7 @@ img {
 .homepage {
     border-style: dashed;
 }
+
+#indexbody {
+    background-color: lightsalmon;
+}
