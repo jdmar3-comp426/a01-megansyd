@@ -8,6 +8,10 @@ p {
     border-style: ridge;
 }
 
+p#id {
+    border-style: bold;
+}
+
 #header1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: navy;
