@@ -71,3 +71,7 @@ img {
 #indexbody {
     background-color: lightsalmon;
 }
+
+h1, h2 {
+    text-align: center;
+}
