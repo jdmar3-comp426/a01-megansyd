@@ -53,5 +53,8 @@ p.highlight:hover {
 img {
     width: 50%;
     height: 50%;
+}
 
+.homepage {
+    color: hotpink;
 }
