@@ -8,11 +8,6 @@ p {
     border-style: ridge;
 }
 
-p#hogwarts {
-    border-style: dashed;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-
 #header1 {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     color: navy;
@@ -79,4 +74,15 @@ img {
 
 h1, h2 {
     text-align: center;
+}
+
+nav ul li a{
+    display: inline;
+    border-style: none none none none;
+    border-color: white;
+}
+
+nav ul li a#currentpage{
+    border-style: solid solid solid solid;
+    border-color: navy;
 }
