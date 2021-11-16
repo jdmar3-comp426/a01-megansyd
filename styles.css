@@ -1,0 +1,88 @@
+body {
+    background-color: #ADD8E6;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    border-style: ridge;
+}
+
+#header1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: navy;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: hotpink;
+}
+
+h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: firebrick;
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: hotpink;
+}
+
+h4 {
+    font-family: fantasy;
+    color: blueviolet;
+}
+
+h5 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: gray;
+}
+
+h6 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: indigo;
+}
+
+p.highlight:hover {
+    color: #ff0000;
+}
+
+.intro {
+    text-align: center;
+}
+
+#maincharacter {
+    outline-style: dashed;
+}
+
+.maincharacter2 {
+    outline-style: solid;
+}
+
+img {
+    width: 50%;
+    height: 50%;
+}
+
+.homepage {
+    border-style: dashed;
+}
+
+#indexbody {
+    background-color: lightsalmon;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+nav ul li a{
+    display: inline;
+    border-style: none none none none;
+    border-color: white;
+}
+
+nav ul li a#currentpage{
+    border-style: solid solid solid solid;
+    border-color: navy;
+}
